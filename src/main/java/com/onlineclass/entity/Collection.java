@@ -3,7 +3,6 @@ package com.onlineclass.entity;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.onlineclass.dto.CollectionType;
 import com.onlineclass.request.CollectionBody;
-import com.onlineclass.request.ContentBody;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
